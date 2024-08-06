@@ -6,6 +6,8 @@
 
 ###### 🎈 代码修改，以及请求参数配置具体详见:[正方教务选课系统API分析文档](https://github.com/shaxiu/ZF_API)
 
+###### 💡 源码修改自:[南京工业大学抢课小助手](https://github.com/shaxiu/njtech_grabber)
+
 ---
 
 </div>
@@ -26,9 +28,10 @@
 
 ## 效果图
 
-![result1](./images/1.png)
-
-![result2](./images/2.png)
+<div align="center">
+    <img src="./images/1.png">
+    <img src="./images/2.png">
+</div>
 
 ## 使用方法
 

@@ -100,7 +100,7 @@ if __name__ == '__main__':
     *********************************
     欢迎使用【西唯兵抢课小助手】
     Made By H·Sofie
-    Github: https://github.com/shaxiu/njtech_grabber
+    Github: https://github.com/H-Sofie/CQUT_Grabber
     功能代码如下:
     ---------------------
     1. 选课
